@@ -1,0 +1,5 @@
+c:\users\eric\documents\visual studio 2012\Projects\Debuggin3\Debuggin3\bin\Debug\Debuggin3.exe.config
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\Debuggin3\Debuggin3\bin\Debug\Debuggin3.exe
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\Debuggin3\Debuggin3\bin\Debug\Debuggin3.pdb
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\Debuggin3\Debuggin3\obj\Debug\Debuggin3.exe
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\Debuggin3\Debuggin3\obj\Debug\Debuggin3.pdb
